@@ -1,0 +1,39 @@
+h1 {
+				font-size: 50px;
+				margin-top:15px;
+				font-family: Helvetica, Arial, sans-serif;
+			}
+
+			p {
+				font-size: 30px;
+				margin: 10px 0 10px 0;
+				font-family: Garamond, Arial, sans-serif;
+			}
+
+            .credit {
+                color: #555555;
+                font-size: 14px;
+            }
+
+			#chart3 svg {
+				background-color: #F5F5F5;
+			}
+			.bar {
+  				fill: steelblue;
+			}
+
+			.axis path,
+			.axis line {
+				fill: none;
+				stroke: black;
+				shape-rendering: crispEdges;
+			}
+
+			.axis text {
+				font-family: sans-serif;
+                
+			}
+
+            .yTitle {
+                font-size: 13px;
+            }
